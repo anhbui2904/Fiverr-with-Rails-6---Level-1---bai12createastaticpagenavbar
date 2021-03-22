@@ -1,0 +1,10 @@
+{
+  "name": "bai12createastaticpagenavbar",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}
